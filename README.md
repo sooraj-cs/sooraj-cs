@@ -1,6 +1,6 @@
 Hi, I'm Sooraj 👋  
-Computer Science student at Anglia Ruskin University  
+BEng. Computer Science student at Anglia Ruskin University  
 
-🔧 Skills: Java, C, Networking (OSPF, VLAN), Bash  
+🔧 Skills: Java, C, Networking (OSPF, VLAN, DHCP), Bash, C++, Kotlin
 📂 Projects: Enterprise Network Design, Java Role-Based System, File Editor  
 🎯 Seeking: Software / Networking placement opportunities  
